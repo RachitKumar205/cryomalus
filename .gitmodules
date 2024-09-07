@@ -4,3 +4,6 @@
 [submodule "apple-classifier"]
 	path = apple-classifier
 	url = https://github.com/RachitKumar205/apple-classifier
+[submodule "cryomalus-dashboard"]
+	path = cryomalus-dashboard
+	url = git@github.com:RachitKumar205/cryomalus-dashboard.git
