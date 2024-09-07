@@ -1,0 +1,6 @@
+[submodule "cryomalus-backend"]
+	path = cryomalus-backend
+	url = https://github.com/RachitKumar205/cryomalus-backend
+[submodule "apple-classifier"]
+	path = apple-classifier
+	url = https://github.com/RachitKumar205/apple-classifier
